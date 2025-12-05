@@ -11,7 +11,7 @@
 ```bash
 #### News:
 #### 2025.11.20: The paper is published on IEEE TGRS!
-#### 2025.12.05: code of ACDet is coming soon...
+#### 2025.12.05: code of ACDet is released!
 ```
 
 ## INTRODUCTION
